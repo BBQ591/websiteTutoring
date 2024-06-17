@@ -13,7 +13,7 @@ function App() {
                 height={30}
             />
             <h2 style={{ paddingLeft:50, color:"black", paddingRight:20}}>Machine Learning Intern at Oak Ridge National Lab and <br/>
-                Software Engineer at UTK EECS</h2>
+                Software Engineer at the University of Tennessee, Knoxville EECS</h2>
             <p style = {{paddingLeft: 50, paddingRight: 50}}>At Oak Ridge National Laboratory, I've used Convolutional Neural Networks and Convolutional/Variational Autoencoders and Multi-layer Perceptrons to extract physical paramters from Neutron Reflectivity Graphs of Polyzwitterions and time-depedent Ionic Diblocks. Furthermore, I have worked with proteins and their entanglements to understand how individual chain structures change with respect to time. I have submitted a paper to the Soft Matter journal and is currently under review.</p>
             <p style = {{paddingLeft: 50, paddingRight: 50}}>At UTK, I created a 3D video rendering cloud service on Amazon Web Services using Python & JavaScript and prepared documentation for installation & setup on GitHub.</p>
             <Progressbar

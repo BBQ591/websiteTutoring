@@ -1,5 +1,5 @@
 import "./App.css";
-import Circle from "./specialBullet.avif"
+import Circle from "./specialBullet.png"
 const App = ({title, dates, description}) => {
     return (
         <div>
