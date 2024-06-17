@@ -22,21 +22,13 @@ title="Students of Undergraduate Physics President"
 dates="2023-2024"
 description="I led weekly meetings in the spring semester of Senior year to help students in AP Physics to review for the AP test in May." />
 <Activities
-title="Youth Advisory Board"
+title="Oak Ridge Youth Advisory Board"
 dates="2022-2024"
 description="I worked with the city board and other students to help improve the local community from the youth's prospective" />
 <Activities
 title="Soccer (Varsity, Club, and Olympic Development Program)"
 dates="2010-Current"
 description="I played soccer for varsity senior year, club since I was 4, and the Tennessee Olympic Development Program team 1 since freshman year." />
-<Activities
-title="Machine Learning Oak Ridge National Laboratory Intern"
-dates="2023-2024"
-description="I've used Convolutional Neural Networks and Convolutional/Variational Autoencoders and Multi-layer Perceptrons to extract physical paramters from Neutron Reflectivity Graphs of Polyzwitterions and time-depedent Ionic Diblocks. Furthermore, I have worked with proteins and their entanglements to understand how individual chain structures change with respect to time. I have submitted a paper to the Soft Matter journal and is currently under review." />
-<Activities
-title="UTK EECS SWE Intern"
-dates="2021-2022"
-description="I created a 3D video rendering cloud service on Amazon Web Services using Python & JavaScript and prepared documentation for installation & setup on GitHub" />
 </div>
     </div>
     );

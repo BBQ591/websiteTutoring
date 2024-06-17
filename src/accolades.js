@@ -8,8 +8,8 @@ function App() {
                 <div style={{flex:1, boxShadow: '0 4px 8px rgba(0, 0, 0, 1)', borderRadius:20, marginLeft:20, marginRight:20}}>
                     <h2>2022</h2>
                     <p style={{fontSize:18}}>{'\u2022 AIME Qualification'}</p>
+                    <p style={{fontSize:18}}>{'\u2022 TN03 Congressional App Challenge Winner'}</p>
                     <p style={{fontSize:18}}>{'\u2022 AP Computer Science A: 5'}</p>
-                    <p style={{fontSize:18}}>{'\u2022 2022 TN03 Congressional App Challenge Winner'}</p>
                 </div>
                 <div style={{flex: 1, boxShadow: '0 4px 8px rgba(0, 0, 0, 1)', borderRadius:20, marginLeft:20, marginRight:20}}>
                 <h2>2023</h2>

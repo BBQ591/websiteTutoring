@@ -27,7 +27,7 @@ const Progress_bar = ({bgcolor,progress,height}) => {
      
       const progresstext = {
         padding: 10,
-        color: 'black',
+        color: 'white',
         fontWeight: 900
       }
        
