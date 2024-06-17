@@ -11,7 +11,7 @@ const FirstBox = () => {
             </div>
 <div style={{flex:1, textAlign:'center', alignContent:"center"}}>
     <div style={{marginRight:30, marginLeft:30, backgroundColor:"grey", paddingTop:10, paddingBottom:10, borderRadius: 20, boxShadow: '0 4px 8px rgba(0, 0, 0, 1)'}}>
-    <h1 style = {{color:"white"}}>Brian Qu</h1>
+    <h1 style = {{color:"white"}}>Brian Q.</h1>
             <h2 style = {{color:"white"}}>University of Texas</h2>
             <h2 style = {{color:"white"}}>Computer Science</h2>
             <h2 style = {{color:"white"}}>Turing Scholar</h2>
